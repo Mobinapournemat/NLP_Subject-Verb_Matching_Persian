@@ -1,3 +1,3 @@
-# Socket_programming_TicTacToe
+# TicTacToe Game using Python Socket Programming
 
-## Language: Python
+### Language: Python
