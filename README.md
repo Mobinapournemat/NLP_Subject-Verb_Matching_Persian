@@ -1,4 +1,4 @@
-# TicTacToe Game using Python Socket Programming
+# TicTacToe using Socket Programming
 
 ### Language: Python
 
